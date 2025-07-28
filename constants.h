@@ -72,6 +72,7 @@ typedef struct {
 
 static const Dice dice_types[] = {
     {2, 0, 0, "Coin"},
+    {3, 0, 0, "d3"},
     {4, 0, 0, "d4"},
     {6, 0, 0, "d6"},
     {8, 0, 0, "d8"},
